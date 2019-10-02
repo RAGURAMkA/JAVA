@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Aaaa
+class SUMOFPRIME 
 {
 public static void main(String[] args)
 {
